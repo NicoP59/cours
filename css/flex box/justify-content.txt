@@ -1,0 +1,8 @@
+ justify-content, qui aligne les éléments horizontaux et accepte les valeurs suivantes:
+
+flex-start : Les éléments s'alignent au côté gauche du conteneur.
+flex-end : Les éléments s'alignent au côté droit du conteneur.
+center : Les éléments s’alignent au centre du conteneur.
+space-between : Les éléments s'affichent avec un espace égal entre eux.
+space-around : Les éléments s'affichent avec un espacement égal à l'entour un.
+Par exemple, justify-content: flex-end;bougera la grenouille vers la droite.

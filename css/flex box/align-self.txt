@@ -1,0 +1,6 @@
+Une autre propriété que vous pouvez appliquer sur des éléments individuels est align-self. Cette propriété accepte les mêmes valeurs que align-items, mais s'applique uniquement à ciblé.
+flex-start : Les éléments s’alignent au haut du conteneur.
+flex-end : Les éléments s’alignent au bas du conteneur.
+center : Les éléments s'alignent au centre vertical du conteneur.
+baseline : Les éléments s’alignent à la ligne de base du conteneur.
+stretch : Les éléments sont étirés pour s'adapter au conteneur.

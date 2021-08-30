@@ -1,0 +1,5 @@
+Les deux propriétés flex-direction et flex-wrap sont utilisées tellement souvent que le raccourci flex-flow a été créé pour les combiner. Ce raccourci accepte les valeurs des deux propriétés séparées par un espace.
+
+Par exemple, vous pouvez utiliser flex-flow: row wrappour configurer les colonnes et les faire s'envelopper.
+
+Essayez d'utiliser flex-flowpour répéter le niveau précédent.

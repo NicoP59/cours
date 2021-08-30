@@ -1,0 +1,6 @@
+ flex-direction. Cette propriété CSS définit la direction dans laquelle les éléments sont présentés dans le conteneur, et accepte les valeurs suivantes:
+
+row : Les éléments sont disposés dans la même direction que le texte.
+row-reverse : Les éléments sont disposés dans la direction opposée au texte.
+column : Les éléments sont disposés de haut en bas.
+column-reverse : Les éléments sont disposés de bas en haut.

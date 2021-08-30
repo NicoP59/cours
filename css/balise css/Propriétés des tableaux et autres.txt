@@ -1,0 +1,25 @@
+Propriétés des tableaux
+
+
+border-collapse
+collapse, separate
+(Fusion des bordures)
+
+empty-cells
+hide, show
+(Affichage des cellules vides)
+
+caption-side
+bottom, top
+(Position du titre du tableau)
+
+Autres propriétés
+Propriété
+
+
+
+cursor
+
+crosshair, default, help, move, pointer, progress, text, wait, e-resize, ne-resize, auto...
+
+Curseur de souris

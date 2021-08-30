@@ -1,0 +1,9 @@
+Vous pouvez utiliser align-content pour définir comment plusieurs lignes sont espacées de l'une à l'autre. Cette propriété prend les valeurs suivantes:
+
+flex-start : Les lignes sont amassées dans le haut du conteneur.
+flex-end: Les lignes sont amassées dans le bas du conteneur.
+center : Les lignes sont amassées dans le centre vertical du conteneur.
+space-between : Les lignes s'affichent avec un espace égal entre eux.
+space-around : Les lignes s'affichent avec un espace égal autour d'autrui.
+stretch : Les lignes sont étirées pour s'adapter au conteneur.
+Ceci peut être mélangé, mais align-contentdéterminer l'espace entre les lignes, alors que align-itemsdéterminer comment les éléments dans leur ensemble sont alignés à l'intérieur du conteneur. Quand il n'y a qu'une seule ligne, align-contentn'a aucun effet.
