@@ -1,0 +1,28 @@
+terminal lignes de commande
+
+1/ créer un dossier => mkdir :nom du dossier
+ex: mkdir nicoentrainement
+
+2/ créer un fichier => touch :nom du fichier suivis de .html ou .js ou .txt
+ex: touch nico.html
+
+3/ parcourir les dossiers => cd nom du dossier
+ex: tu est dans le dossier Documents, tu veux aller dans nicoentrainement => cd nicoentrainements
+
+4/ Retourner en arriére dans les dossiers => cd ..
+ex: tu et dans nico entrainement tu veux retourner dans documents => cd ..
+
+5/ tu veux afficher ce quil y a dans ton dossier => ls 
+
+6/ Retourner a la source de ton ordinateur => cd ~
+
+7/ ouvrir ton fichier dans vs code apres l'avoir creér => code .
+
+8/ deplacer un fichier ou dossier => mv suivis du fichier ou dossier a deplacer et ou le deplacer
+ex:mv test.txt nico entrainement.
+
+9/ copier des dossier ou des fichier => cp suivis de ce quon veux copier et ou le copier
+ex:cp test.txt nico entrainement.
+
+10/ comment supprimer des fichiers => rm suvis du nom du fichier ou rm -r pour effacer dossier
+ex: rm test.txt ou rm -r nico entrainement.
