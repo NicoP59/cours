@@ -1,0 +1,26 @@
+Balises génériques
+Les balises génériques sont des balises qui n'ont pas de sens sémantique.
+
+En effet, toutes les autres balises HTML ont un sens : <p>  signifie « paragraphe », <h2>  signifie « sous-titre », etc.
+Parfois, on a besoin d'utiliser des balises génériques (aussi appelées balises universelles) car aucune des autres balises ne convient. On utilise le plus souvent des balises génériques pour construire son design.
+
+Il y a deux balises génériques : l'une est inline, l'autre est block.
+
+
+
+<span>
+Balise générique de type inline
+
+<div>
+
+Balise générique de type block
+
+Ces balises ont un intérêt uniquement si vous leur associez un attribut class  , id  ou style  :
+
+class  : indique le nom de la classe CSS à utiliser.
+
+id  : donne un nom à la balise. Ce nom doit être unique sur toute la page car il permet d'identifier la balise. Vous pouvez vous servir de l'ID pour de nombreuses choses, par exemple pour créer un lien vers une ancre, pour un style CSS de type ID, pour des manipulations en JavaScript, etc.
+
+style  : cet attribut vous permet d'indiquer directement le code CSS à appliquer. Vous n'êtes donc pas obligé d'avoir une feuille de style à part, vous pouvez mettre directement les attributs CSS. Notez qu'il est préférable de ne pas utiliser cet attribut et de passer à la place par une feuille de style externe, car cela rend votre site plus facile à mettre à jour par la suite.
+
+Ces trois attributs ne sont pas réservés aux balises génériques : vous pouvez aussi les utiliser sans aucun problème dans la plupart des autres balises.

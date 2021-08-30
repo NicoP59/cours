@@ -1,0 +1,22 @@
+Balises de listes
+Cette section énumère toutes les balises HTML permettant de créer des listes (listes à puces, listes numérotées, listes de définitions…)
+
+
+<ul>
+Liste à puces, non numérotée
+
+<ol>
+Liste numérotée
+
+<li>
+Élément de la liste à puces
+
+<dl>
+Liste de définitions
+
+<dt>
+Terme à définir
+
+<dd>
+Définition du terme
+

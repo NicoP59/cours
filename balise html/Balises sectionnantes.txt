@@ -1,0 +1,23 @@
+Balises sectionnantes
+Ces balises permettent de construire le squelette de notre site web.
+
+
+
+<header>
+En-tête
+
+<nav>
+Liens principaux de navigation
+
+<footer>
+Pied de page
+
+<section>
+Section de page
+
+<article>
+Article (contenu autonome)
+
+<aside>
+Informations complémentaires
+

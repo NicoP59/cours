@@ -1,0 +1,13 @@
+Les balises de premier niveau sont les principales balises qui structurent une page HTML. Elles sont indispensables pour réaliser le « code minimal » d'une page web.
+
+
+
+<html>
+Balise principale
+
+<head>
+En-tête de la page
+
+<body>
+Corps de la page
+

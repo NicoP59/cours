@@ -1,0 +1,19 @@
+Balises d'en-tête
+Ces balises sont toutes situées dans l'en-tête de la page web, c'est-à-dire entre <head>  et </head>  :
+
+
+
+<link />
+Liaison avec une feuille de style
+
+<meta />
+Métadonnées de la page web (charset, mots-clés, etc.)
+
+<script>
+Code JavaScript
+
+<style>
+Code CSS
+
+<title>
+Titre de la page
