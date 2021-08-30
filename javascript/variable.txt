@@ -1,0 +1,6 @@
+Variable
+Une variable permet d’associer un nom à une valeur. La valeur peut prendre plusieurs formes (texte, nombre, boolean, etc.). On la déclare avec le mot clé  let .
+
+Exemple :
+
+1 let maVariable = “Contenu de la variable”;

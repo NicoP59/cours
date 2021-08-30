@@ -1,0 +1,6 @@
+Constante
+Une constante est une variable qui a la particularité de ne pas pouvoir changer de valeur dans le temps. On la déclare avec le mot clé  const  .
+
+Exemple :
+
+1 const maConstant = “Production”;

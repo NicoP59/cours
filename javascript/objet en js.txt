@@ -1,0 +1,7 @@
+créer un objet basique en js => let = {};
+ex: let episode = {
+  title: 'supernatural',
+  duration: 45,
+  hasBeenWatched: false
+};
+  
