@@ -1,0 +1,21 @@
+crée dossier avec mkdir.
+initialiser avec git init.
+ls -la : voir les fichiers cachés dont le .git / => si y'a succès du git init
+publier sur github avec git remote add origin url.
+voir si sa a foctionner avec git remote -v.
+si besoin de crée une branche git branch (-m) nomdudossier.
+pour aller sur la branche git checkout nomdudossier.
+inserer les documents.
+verifier les doc git status.
+si doc au rouge faire git add. .
+sauvegardé git commit -m "text".
+envoyer sur github git push origin nomdelabranche.
+ce remettre sur la master git checkout nomdelabranche(master).
+finir avec git merge nomdudossier(de la branche).Pour chaque branche.et refaire un push
+Si en equiper merge avant et push apres
+
+
+si git branch nomdudossier ne fonctionne pas, tente de créer un fichier dans le dossier :
+touch nomdufichier.html/txt/css etc
+Fais ton git add . + commit
+Ensuite supprime le avec git rm lenomdufichier.html/txt/css etc....
